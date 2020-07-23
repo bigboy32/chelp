@@ -46,3 +46,11 @@ python -m pyinstaller chelp.py --onefile
 ```
 
 And then copy it in to the path
+
+
+## Usage:
+
+in terminal/cmd: ```bash
+chelp YOUR ERROR IN ONE LINE
+```
+Enjoy!
